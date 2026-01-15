@@ -117,4 +117,4 @@ minishell/
 
 ## 👨‍💻 Authors
 - [@42mgr](https://github.com/42mgr)
-- [@bartsch-tech](https://github.com/bartsch-tech)
+- [@bartschi-code](https://github.com/bartschi-code)
