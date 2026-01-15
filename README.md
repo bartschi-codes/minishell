@@ -50,7 +50,7 @@ This is a Show Repository. The original we worked on is [here](https://github.co
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/minishell.git
+git clone https://github.com/bartschi-codes/minishell.git
 cd minishell
 make
 ./minishell
